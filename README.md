@@ -15,3 +15,5 @@ This course provides a broad introduction to machine learning, datamining, and s
 The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning 
 algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, 
 medical informatics, audio, database mining, and other areas.
+
+![certificate](https://github.com/user-attachments/assets/83a4dfec-a451-4c54-b8de-54fee4483d09)
